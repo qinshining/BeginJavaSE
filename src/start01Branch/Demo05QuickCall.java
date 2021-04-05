@@ -1,4 +1,4 @@
-package Start01Branch;
+package start01Branch;
 
 import java.util.Scanner;
 

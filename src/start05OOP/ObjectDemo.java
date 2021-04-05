@@ -1,6 +1,4 @@
-package Start05OOP;
-
-import java.util.Objects;
+package start05OOP;
 
 public class ObjectDemo {
 

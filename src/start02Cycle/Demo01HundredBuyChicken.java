@@ -1,4 +1,4 @@
-package Start02Cycle;
+package start02Cycle;
 
 public class Demo01HundredBuyChicken {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Start04CodeBlock;
+package start04CodeBlock;
 
 /**
  * code block:

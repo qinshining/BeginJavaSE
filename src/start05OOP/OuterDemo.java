@@ -1,4 +1,4 @@
-package Start05OOP;
+package start05OOP;
 
 public class OuterDemo {
     public static void main(String[] args) {

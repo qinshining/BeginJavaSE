@@ -1,4 +1,4 @@
-package Start02Cycle;
+package start02Cycle;
 
 import java.util.Scanner;
 
